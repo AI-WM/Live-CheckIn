@@ -48,4 +48,4 @@ See also the list of [contributors](https://github.com/AI-WM/Live-CheckIn/docs/c
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache-2.0 - see the [LICENSE.md](LICENSE.md) file for details
