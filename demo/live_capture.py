@@ -14,7 +14,7 @@ path.append(abspath(join(__file__, pardir, pardir, 'src')))
 from vcapture import vcap
 
 
-def process(cap, frm):
+def process(frm):
     frame = flip(frm, 1)
     gray = cvtColor(frame, COLOR_BGR2GRAY)
     imshow('Live Capture', gray)
