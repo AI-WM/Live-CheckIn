@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from functools import wraps
+
 from cv2 import VideoCapture
 from cv2 import waitKey
 
