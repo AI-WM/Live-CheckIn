@@ -10,8 +10,6 @@ from numpy import asarray
 from numpy import uint8
 from cv2 import imdecode
 from cv2 import IMREAD_COLOR
-from cv2 import cvtColor
-from cv2 import COLOR_BGR2RGB
 from cv2 import rectangle
 from cv2 import imshow
 from cv2 import waitKey
