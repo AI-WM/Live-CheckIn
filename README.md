@@ -8,7 +8,7 @@ Live face recognition and automatic check-in project.
 
     `Python3` can be download from [here](https://www.python.org/downloads/).
 
-    Python 3.4 and later version include `pip` by default, so that you do not need to install it separately.
+    `pip`  is included in Python 3.4 and later version and there is no need to install it separately.
 
 2. Relative Packages
 
