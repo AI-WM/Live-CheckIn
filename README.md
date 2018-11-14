@@ -39,8 +39,8 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ## Authors
 
-* **Jeremite** - *Core Contributor & Initial Work* - [jeremite](https://github.com/jeremite)
-* **Haolin Hong** - *Core Contributor & Project Management* - [HHONG-WM](https://github.com/HHONG-WM)
+* **Jeremite** - *Research* - [jeremite](https://github.com/jeremite)
+* **Haolin Hong** - *Developing* - [HHONG-WM](https://github.com/HHONG-WM)
 
 <!---
 See also the list of [contributors](https://github.com/AI-WM/Live-CheckIn/docs/contributors.txt) who participated in this project.
